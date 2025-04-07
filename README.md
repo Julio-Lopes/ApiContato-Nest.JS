@@ -46,7 +46,7 @@ A API foi construída seguindo as melhores práticas de desenvolvimento e está 
 3. **Execute a aplicação**:
    ```bash
    npm run start:dev
-5. **Acesse a documentação Swagger**:
+5. **Acessar a aplicação**:
    ```bash
    URL: http://localhost:3000/contato
 
